@@ -28,6 +28,13 @@
         "cms-id": "7834",
         "id": "features",
         "resource": "https://mahmoudn1.github.io/GithubCMS/features.json"
+      },
+       {
+        "timestamp": "16600322684",
+        "cms-guid": "736D2J90754DD44D6AF77FE2880ED748D",
+        "cms-id": "78334",
+        "id": "sample",
+        "resource": "https://mahmoudn1.github.io/GithubCMS/features.json"
       }
     ]
   }
