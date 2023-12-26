@@ -1424,11 +1424,5 @@
   "addon_status_disabled": "#####",
   "app_feedback_tray_title": "#####",
   "app_feedback_view_title": "#####",
-  "app_feedback_view_subtitle": "#####",
-  "app_feedback_view_primary_button": "#####",
-  "app_feedback_view_secondary_button": "#####",
-  "app_rating_tray_title": "#####",
-  "app_rating_view_title": "#####",
-  "app_rating_view_primary_button": "#####",
-  "app_rating_view_secondary_button": "#####"
+  "app_feedback_view_subtitle": "#####"
 }
